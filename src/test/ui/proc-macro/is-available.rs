@@ -1,6 +1,5 @@
 // run-pass
 
-#![feature(proc_macro_is_available)]
 
 extern crate proc_macro;
 
